@@ -1,14 +1,9 @@
-import Navbar from "./components/layout/Navbar";
-import Footer from "./components/layout/Footer";
-import AppRoutes from "./routes/AppRoutes";
-
 function App() {
   return (
-    <>
-      <Navbar />
-      <AppRoutes />
-      <Footer />
-    </>
+    <div>
+      <h1>🏏 NG Hulkur Cricketers</h1>
+      <p>Advanced Tournament System Loading...</p>
+    </div>
   );
 }
 
