@@ -26,12 +26,12 @@ export default function Home() {
         <div className="grid md:grid-cols-4 gap-4">
           <div className="bg-white shadow rounded-xl p-6 text-center">
             <h3 className="font-bold">🥇 1st Prize</h3>
-            <p className="text-2xl font-bold">₹50,000</p>
+            <p className="text-2xl font-bold">₹30,000</p>
           </div>
 
           <div className="bg-white shadow rounded-xl p-6 text-center">
             <h3 className="font-bold">🥈 2nd Prize</h3>
-            <p className="text-2xl font-bold">TBA</p>
+            <p className="text-2xl font-bold">20000</p>
           </div>
 
           <div className="bg-white shadow rounded-xl p-6 text-center">
